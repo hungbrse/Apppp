@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SensorGame</string>
+        <!-- Các string sẵn có -->
+        <string-array name="ball_colors">
+            <item>Red</item>
+            <item>Blue</item>
+            <item>Green</item>
+            <!-- Thêm các màu khác tại đây nếu cần -->
+        </string-array>
+
+</resources>
